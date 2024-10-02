@@ -1,0 +1,12 @@
+.HomeBanner{
+    background-image: url(https://i.postimg.cc/WbsmRGqL/banner3.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 84vh;
+    width: 100%;
+    mix-blend-mode: multiply;
+    position: relative;
+   
+
+}

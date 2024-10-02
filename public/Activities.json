@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Top 5 Trends Shaping the Future of Construction in 2024",
+        "description": "The construction industry is evolving rapidly, driven by technological advances and changing consumer preferences.",
+        "date_of_publication": " 28 Dec 2020",
+        
+        "author_image": "https://i.postimg.cc/3NcPSLsw/Rectangle-63.png",
+        "image": "https://i.postimg.cc/Rhj1D6Kh/hello.jpg"
+        
+      },
+      {
+        "id": 2,
+        "title": "Essential Tips for Planning a Successful Renovation Project",
+        "description": "Renovating a space can be both exciting and challenging. Proper planning is key to ensuring the project runs smoothly." ,
+        "date_of_publication": "28 Dec 2020",
+        
+        "author_image": "https://i.postimg.cc/3NcPSLsw/Rectangle-63.png",
+        "image": "https://i.postimg.cc/DwQQxzZf/7.jpg"
+      },
+      {
+        "id": 3,
+        "title": "The Importance of Choosing the Right Materials for Your Construction Projec",
+        "description": "Selecting the appropriate materials is crucial for the durability, sustainability, and overall." ,
+        "date_of_publication": "28 Dec 2020",
+        
+        "author_image": "https://i.postimg.cc/3NcPSLsw/Rectangle-63.png",
+        "image": "https://i.postimg.cc/dtKLsYHy/Whats-App-Image-2021-06-06-at-07-26-18.jpg"
+      }
+]
